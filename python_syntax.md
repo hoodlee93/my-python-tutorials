@@ -181,6 +181,8 @@ print(df) # This will display first few rows from the words.csv file
 Similarly we can install other modules and look into their documentations for usage instructions.\
 We will find ourselved doing this often in the later part of this course
 
+## Here is all code about it
+
 ``` python
 '''Syntax of python, comments and escape sequences and modules and pip print statement'''
 
