@@ -1,4 +1,4 @@
-# Day 6 - Variables and Data Types
+# Variables and Data Types
 ## What is a variable?
 Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc
 Creating a variable is like creating a placeholder in memory and assigning it some value. In Python its as easy as writing:
@@ -9,7 +9,7 @@ c = "Hello"
 d = None
 ```
 
-These are four variables of different data types.
+- These are four variables of different data types.
 
 ## What is a Data Type?
 Data type specifies the type of value a variable holds. This is required in programming to do various operations without causing an error. \
