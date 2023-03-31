@@ -6,7 +6,7 @@ name = "Harry"
 print("Hello, " + name)
 ```
 ## Output
-Hello, Harry
+`Hello, Harry`
 
 Note: It does not matter whether you enclose your strings in single or double quotes, the output remains the same. 
 
